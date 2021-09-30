@@ -21,6 +21,6 @@ public class Sample2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(alpha);
+        //Debug.Log(alpha);
     }
 }
